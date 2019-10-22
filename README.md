@@ -1,5 +1,5 @@
 # emonpi
-Los detalles de la primera conexión estan en [primera conexión](https://guide.openenergymonitor.org/setup/connect/)
+Los detalles de la primera conexión estan en [primera conexión](https://guide.openenergymonitor.org/setup/connect/#1b-connect-to-ethernet)
 ## Con conexión a internet por cable
 - Equipo funcionando conectado a una toma de red adquiere una IP por DHCP ejemplo: 192.168.1.118. Conectarse a esta IP para acceder al servidor emoncms
 - Las credenciales del primer usuario son muy importantes porque este adquiere permisos de administrador
