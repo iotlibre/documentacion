@@ -1,4 +1,5 @@
-# Primera conexión
+# emonpi
+## primera conexion
 - Equipo funcionando conectado a una red toma una IP por DHCP 192.168.1.118. Conectarse a esta IP para acceder al servicio
 - Desconectando el cable IP, después de un par de minutos, levanta una wifi (modo Access Point)
 - emonPi/emonpi2016”
